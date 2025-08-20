@@ -1,30 +1,18 @@
-#
- Simple Calculator (Python)
+# Number Guessing Game
 
-This is a simple calculator project built in Python using functions.  
-It supports basic arithmetic operations like addition, subtraction, multiplication, division, and square.
-
----
+A simple Python game where the computer randomly selects a number, and the player has to guess it. The game provides hints whether the guess is too high or too low.
 
 ## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division (with zero handling)
-- Square of a number
+- Random number generation
+- User input for guesses
+- Hints for too high or too low
+- Counts number of attempts
 
----
+## How to Play
+1. Run the `number_guessing_game.py` file.
+2. Enter your guess when prompted.
+3. The game will tell you if your guess is too high, too low, or correct.
+4. Keep guessing until you find the correct number.
 
-## Technologies Used
-- Python 3
-
----
-
-## ▶️ How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/shriya07-debug/simple-calculator.git.
-
-Author: Shriya Awale  
-GitHub: https://github.com/shriya07-debug/simple-calculator
-# sample
+## Example
+#number-guessing-game
